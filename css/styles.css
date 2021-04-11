@@ -1,0 +1,62 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: black;
+color: #61122F;
+}
+body{
+	background-color: #61122F;
+	color: white;
+}
+
+.center{
+	width: 100%;
+	background-color: grey;
+	
+}
+.container
+{
+	background-color: rgba(125, 125, 134, 0.8);
+    padding: 10px;
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 40px;
+}
+.text-center{
+	font-size: 30px;
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color: #61122F;
+    text-align: center;
+	font-size: 18px;
+}
+.navbar-brand{
+font-size: 30px;	
+}
+
+.chicken h1 {
+    text-align: center;
+}
+
+.content {
+    margin: 10px;
+}
+
+div.container {
+    width: auto;
+    margin: 10px;
+}
+
+.navbar-header a {
+	font-size: 25px;
+	font-weight: bold;
+}
